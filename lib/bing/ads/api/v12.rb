@@ -1,7 +1,7 @@
 module Bing
   module Ads
     module API
-      # Bing::Ads::API::V11
+      # Bing::Ads::API::V12
       module V12
         NAMESPACE_IDENTIFIER = :v12
 
